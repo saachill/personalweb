@@ -8,6 +8,7 @@
 .bottom-container{
     background-color: #93BFCf;
     padding-top: 20px;
+    position: relative;
 }
 .middle-container{
     padding: 50px;
